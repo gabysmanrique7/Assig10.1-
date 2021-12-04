@@ -1,4 +1,4 @@
-# Assig10.1-
+# Assig10.1
 Assignment 10.1 by Gabriela Manrique
  Welcome to the Test of Assigment10.1 Program 
 						UCSC Enrollemnt information 
